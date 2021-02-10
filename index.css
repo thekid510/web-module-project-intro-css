@@ -57,41 +57,36 @@ html{
 }
 .navcon{
     
-    background-color: red;
-    justify-content: center;
+    padding-top: 2%;
+    margin: 0 15%;
 }
 nav a {
     margin: 0 10px;
-    padding: 2.5%;
+    padding: 4%;
     display: inline-block;
-    border-radius: 20px;
+    border-radius: 12%;
     color: white;
     text-decoration: none;
-    margin-bottom: 20px;
+    margin-bottom: 5%;
     background-color:#F87B99;
+    margin: 0 auto;
     
   }
-      
-  }
-.hero{
-    display:inline-block;
-    width:50%;
-    
-    
-}
- .hero img{
-     display: inline-block;
-     border-radius: 50%;
-     padding: 5%;
-     width: 40%;
- }   
-
-
+      .yose{
+        display: inline-block;
+        width: 40%;
+        border-radius: 50%;
+        margin: 0 auto;
+      }
+      .yose img{
+          border-radius: 50%;
+          margin: 0 auto;
+      }
 .park{
     display:inline-block;
-    background-color:hotpink;
-    width:60%;
+    
+    width:55%;
     text-align: center;
-    height: 100%;
-    padding: 5%;
+   margin: 0 auto;
+   padding: 25% ;
   }
