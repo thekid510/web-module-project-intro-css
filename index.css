@@ -56,12 +56,11 @@ html{
     font-size:62.5%;
 }
 .navcon{
-    
+    padding: 5%;
     padding-top: 2%;
-    margin: 0 15%;
+    margin: 0 20%;
 }
 nav a {
-    margin: 0 10px;
     padding: 4%;
     display: inline-block;
     border-radius: 12%;
@@ -69,13 +68,14 @@ nav a {
     text-decoration: none;
     margin-bottom: 5%;
     background-color:#F87B99;
-    margin: 0 auto;
+    margin: 0 3%;
+    width: 25%;
     
   }
       .yose{
         display: inline-block;
-        width: 40%;
-        border-radius: 50%;
+        width: 30%;
+        padding: 5%;
         margin: 0 auto;
       }
       .yose img{
@@ -85,8 +85,33 @@ nav a {
 .park{
     display:inline-block;
     
-    width:55%;
+    width:65%;
     text-align: center;
-   margin: 0 auto;
-   padding: 25% ;
+     padding: 15%;
   }
+  .text{
+    
+    background-color:palevioletred;
+    text-align:center;
+    padding:4% 2%;
+    width:90%;
+    margin:0 auto;
+    color: white;
+}
+.cont{
+    text-align: center;
+    margin: 0 auto;
+}
+.cont img{
+    width: 30%;
+    
+}
+.herob{
+    
+    background-image: url(/assets/footer_img.jpg);
+    background-position: center;
+    text-align:center;
+    padding:4% 2%;
+    width:100%;
+    margin:0 auto;
+    color: white;
