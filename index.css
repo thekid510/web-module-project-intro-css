@@ -88,3 +88,12 @@ a:nth-child(3){
     padding: 5%;
     margin: 0 auto;
 }
+span{
+    font-weight: bold;
+}
+.about p{
+width: 40%;
+}
+.about2 p{
+    width: 40%;
+    }
