@@ -56,9 +56,10 @@ nav a {
 .cont{
     text-align: center;
     margin: 0 auto;
+    padding: 2%;
 }
 .cont img{
-    width: 30%;
+    width: 25%;
     
 }
 .herob{
@@ -70,6 +71,7 @@ nav a {
     width:100%;
     margin:0 auto;
     color: white;
+    
 }
 
 h1{
@@ -81,4 +83,8 @@ a:nth-child(1){
 }
 a:nth-child(3){
     background-color: #ffd900ea;
+}
+.cont p{
+    padding: 5%;
+    margin: 0 auto;
 }
